@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @enisarifi
+- 👋 Hi, I’m Enis Arifi
 - 👀 I’m interested in many things
-- 🌱 I’m currently wanting to be learning about coding
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me ? My e-mail : enisarifi321@gmail.com
+- 🌱 I’m currently learning about coding
+- 💞️ I’m looking to collaborate on many things
+- 
+- 📫 How to reach me ? My e-mail : enis.arifi.ea@gmail.com
 
 <!---
 enisarifi/enisarifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
